@@ -9,7 +9,7 @@
  * Устанавливаем глобальный массив $_SERVER
  */
 $_SERVER = array(
-	"HTTP_HOST" =>  "www.linkosos.ru" ,
+	"HTTP_HOST" =>  "www.test.ru" ,
 	"HTTP_USER_AGENT" =>  "Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.15) Gecko/20110303 Firefox/3.6.15 CronManager" ,
 	"HTTP_ACCEPT" =>  "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" ,
 	"HTTP_ACCEPT_LANGUAGE" =>  "ru-ru,ru;q=0.8,en-us;q=0.5,en;q=0.3" ,
@@ -20,12 +20,12 @@ $_SERVER = array(
 	"PATH" =>  "/sbin:/usr/sbin:/bin:/usr/bin" ,
 	"SERVER_SIGNATURE" =>  "" ,
 	"SERVER_SOFTWARE" =>  "Apache" ,
-	"SERVER_NAME" => "www.linkosos.ru" ,
+	"SERVER_NAME" => "www.test.ru" ,
 	"SERVER_ADDR" => "84.204.80.90" ,
 	"SERVER_PORT" =>  "80" ,
 	"REMOTE_ADDR" =>  "127.0.0.7" ,
 	"DOCUMENT_ROOT" =>  SITE_DIR,
-	"SERVER_ADMIN" => "info@linkosos.ru" ,
+	"SERVER_ADMIN" => "info@test.ru" ,
 	"REMOTE_PORT" => "56142" ,
 	"GATEWAY_INTERFACE" => "CGI/1.1" ,
 	"SERVER_PROTOCOL" => "HTTP/1.1" ,
