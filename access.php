@@ -4,8 +4,8 @@
  */
 $_db_config = array(
 	//'host' => 		'192.168.0.102',
-	'host' => 		'91.192.189.137',
-	'login' => 		'jonel',
-	'password' => 'jbm387233',
-	'dbname' => 	'linkosos'
+	'host' => 		'127.0.0.1',
+	'login' => 		'test',
+	'password' => 'pass',
+	'dbname' => 	'dbname'
 );
